@@ -1,0 +1,7 @@
+$ cd MyProject
+$ git init
+$ git status
+$ git add .
+$ git commit -m "add my sourcecode"
+$ git remote add origin 資料庫連結
+$ git push --set-upstream origin master
